@@ -6,7 +6,7 @@
 ### React :
 
 - **Comprendre ce qu'est un `template` dans React :**  
-  [Ici](https://react.dev/learn/rendering-a-component) pour une introduction aux templates et à la façon dont React rend les composants.
+  [Ici](https://react.dev/learn/) pour une introduction aux templates et à la façon dont React rend les composants.
   - **Comprendre l'interpolation de texte :**  
     Apprendre à afficher des variables et des expressions dans le JSX.
   - **Comprendre les composants fonctionnels et les composants de classe :**  
@@ -33,7 +33,6 @@
       Comprendre comment le state et les props influencent le comportement des composants.
 
 - **Comprendre ce que sont les `hooks` dans React :**  
-  [Ici](https://react.dev/learn/what-is-a-hook) pour une introduction aux hooks de React.
   - [ ] **Connaître les différents hooks intégrés à React :**  
     - `useState`, `useEffect`, `useContext`, etc., et leurs usages respectifs.
   - [ ] **Savoir utiliser le hook `useEffect` :**  
